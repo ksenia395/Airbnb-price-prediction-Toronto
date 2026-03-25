@@ -1,3 +1,6 @@
+## 🚀 Open in Google Colab
+
+[Open Notebook](https://colab.research.google.com/drive/1xrMdygUjfVaBLnALdKxdsdADKF1gqrWO?authuser=1#scrollTo=o42gyjuD5boQ)
 # Airbnb-price-prediction-Toronto
 Airbnb price prediction using real Toronto data with ML models, feature engineering, and model comparison.
 # 🏠 Airbnb Price Prediction (Toronto)
